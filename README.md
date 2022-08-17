@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @vaniorodrigues
 - 👀 I’m interested in Mobile Apps
-- 🌱 I’m currently learning Flutter!
 - 📫 How to reach me rodrigues.vanio@gmail.com
 
 <!---
