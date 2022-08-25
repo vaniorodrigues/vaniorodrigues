@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @vaniorodrigues
 - 👀 I’m interested in Mobile Apps
 - 📫 How to reach me rodrigues.vanio@gmail.com
+- Check my pacman game made with flutter!
 
 <!---
 vaniorodrigues/vaniorodrigues is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
